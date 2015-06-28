@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: ce39cb1a4c1770b48858c079a0433099
+timeCreated: 1435425804
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteSheet_Ship
+    21300002: SpriteSheet_AsteroidLarge
+    21300004: SpriteSheet_AsteroidMedium
+    21300006: SpriteSheet_AsteroidSmall
+    21300008: SpriteSheet_UFO1
+    21300010: SpriteSheet_UFO2
+    21300012: SpriteSheet_UFO3
+    21300014: SpriteSheet_Mine
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SpriteSheet_Ship
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 337
+        width: 105
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet_AsteroidLarge
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 306
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet_AsteroidMedium
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 241
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet_AsteroidSmall
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 181
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet_UFO1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 250
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet_UFO2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 181
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet_UFO3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 105
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpriteSheet_Mine
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 105
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
